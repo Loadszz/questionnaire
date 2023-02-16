@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.94aeb185.css",
-    "main.js": "/static/js/main.89d0256a.js",
-    "static/js/787.858f2891.chunk.js": "/static/js/787.858f2891.chunk.js",
-    "static/media/kef.jpg": "/static/media/kef.468c9a00806441cc065a.jpg",
-    "index.html": "/index.html",
-    "main.94aeb185.css.map": "/static/css/main.94aeb185.css.map",
-    "main.89d0256a.js.map": "/static/js/main.89d0256a.js.map",
-    "787.858f2891.chunk.js.map": "/static/js/787.858f2891.chunk.js.map"
+    "main.css": "/questionnaire/static/css/main.94aeb185.css",
+    "main.js": "/questionnaire/static/js/main.1087fde7.js",
+    "static/js/787.2bae1cdd.chunk.js": "/questionnaire/static/js/787.2bae1cdd.chunk.js",
+    "static/media/kef.jpg": "/questionnaire/static/media/kef.468c9a00806441cc065a.jpg",
+    "index.html": "/questionnaire/index.html",
+    "main.94aeb185.css.map": "/questionnaire/static/css/main.94aeb185.css.map",
+    "main.1087fde7.js.map": "/questionnaire/static/js/main.1087fde7.js.map",
+    "787.2bae1cdd.chunk.js.map": "/questionnaire/static/js/787.2bae1cdd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94aeb185.css",
-    "static/js/main.89d0256a.js"
+    "static/js/main.1087fde7.js"
   ]
 }
